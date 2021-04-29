@@ -1,0 +1,15 @@
+.page {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.page h1 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 44px;
+    color:rgb(45, 72, 148);
+    letter-spacing: 4px;
+    font-weight: 600;
+}
